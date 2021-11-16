@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.imagebox{
+    width: 100%;
+    height: 100vh
+}
+.imagebox img{
+    object-fit: cover;
+    object-position: center;
+}
+.HomeImage{
+    width:100%;
+    height:100%;
+}
+.formField{
+    padding:2px;
+    width:100%
+}
+.sss{
+    width:100%;
+    overflow-x: scroll;
+}
+.outer-form {
+    margin-top:50px;
+    background-color:#faf7e1fa;
+    padding: 30px 0;
+    min-height:100vh
+
+}
